@@ -1,0 +1,2 @@
+1.下载对应的浏览器（firefox、chrome、IE），本例采用的chrome浏览器版本为85.0.4183.102，firefox版本号为80.0.1。将driver文件夹中的webdriver复制到/usr/bin
+2.
