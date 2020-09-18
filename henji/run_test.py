@@ -6,6 +6,7 @@ from HTMLTestRunner import HTMLTestRunner
 import time
 
 test_dir = './test_case/'
+#将test_case文件夹中所有.py文件中的test开头的用例加入测试列表
 discover = unittest.defaultTestLoader.discover(test_dir, pattern='*.py')
 
 if __name__ == '__main__':

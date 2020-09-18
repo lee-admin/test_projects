@@ -13,8 +13,10 @@ import unittest
 from HTMLTestRunner import HTMLTestRunner
 from models.myunite import MyTest
 import sys
-sys.path.append("/home/lee/test_projects/henji/pages")
-from loginPage import Loginpage
+import os
+BASE_Dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(BASE_Dir)
+from pages.loginPage import Loginpage
 
 class TestLogin(MyTest):
   '''login模块测试'''
@@ -63,25 +65,30 @@ class TestLogin(MyTest):
     time.sleep(2)
 
   def test_data(self):
+    '''读入数据进行测试'''
     po = Loginpage(self.driver)
-    login_file = open("/home/lee/test_projects/henji/data/login.txt",'r')
+    global BASE_Dir
+    login_data_filename = BASE_Dir + "/data/login.txt"
+    login_file = open(login_data_filename,'r')
     login_data = login_file.readlines()
-    login_data_filename = "/home/lee/test_projects/henji/data/login_result.txt"
-    login_result = open(login_data_filename,'w')
+    login_data_result_filename = BASE_Dir + "/data/login_result.txt"
+    login_result = open(login_data_result_filename,'w')
     login_result.write("用户名   密码\n")
     for login_data_split in login_data:
         i = login_data_split.split(",",1)
         po.open()
         po.login_username(i[0])
         po.login_password(i[1])
-        time.sleep(1)   
+        time.sleep(1)
+        #登陆失败则刷新掉弹出框再继续测试   
         if self.driver.current_url == "http://192.168.0.69/HGMap/example/":
             login_result.write(i[0] + "  " + i[1] + "登陆失败" + "\n")
+            self.driver.refresh()
+        #登陆成功则回退到登陆界面
         elif self.driver.current_url == "http://192.168.0.69/HGMap/example/realTime2D.html":
             login_result.write(i[0] + "  " + i[1] + "登陆成功" + "\n")
             self.driver.back()
-        time.sleep(2)
-        self.driver.refresh()
+        #time.sleep(2)
         assert self.driver.current_url == "http://192.168.0.69/HGMap/example/realTime2D.html" or "http://192.168.0.69/HGMap/example/"
     login_result.close()
     login_file.close()
@@ -95,8 +102,8 @@ class TestLogin(MyTest):
 
 
 if __name__ == '__main__':
-    #self.driver.get("http://192.168.0.69/").delete_all_cookies()
     testunit = unittest.TestSuite()
+    #将以下用例加入测试序列
     #testunit.addTest(TestLogin("test_url"))    
     #testunit.addTest(TestLogin("test_loginEidEpwd"))
     #testunit.addTest(TestLogin("test_loginRidEpwd"))
@@ -104,7 +111,8 @@ if __name__ == '__main__':
     #testunit.addTest(TestLogin("test_loginWidRpwd"))
     #testunit.addTest(TestLogin("test_loginRidWpwd"))
     #testunit.addTest(TestLogin("test_loginRidRname"))  
-    testunit.addTest(TestLogin("test_data"))  
+    testunit.addTest(TestLogin("test_data"))
+    #生成测试报告  
     now = time.strftime("%Y-%m-%d %H:%M:%S")
     file_name = "../report/report_module/" + now + "login_" + "result.html"
     report_file = open(file_name, 'wb')

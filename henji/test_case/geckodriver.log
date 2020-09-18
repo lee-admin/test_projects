@@ -1192,3 +1192,162 @@ JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: 
 JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
 JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
 1599813098701	Marionette	INFO	Stopped listening on port 42733
+1600394104777	geckodriver	INFO	Listening on 127.0.0.1:49943
+1600394104781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF6I1oD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600394107958	Marionette	INFO	Listening on port 46505
+1600394108022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 523ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 168ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600394141259	Marionette	INFO	Stopped listening on port 46505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600394206045	geckodriver	INFO	Listening on 127.0.0.1:41425
+1600394206050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoiS6Ss"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600394209070	Marionette	INFO	Listening on port 35969
+1600394209170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 217ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600400267945	geckodriver	INFO	Listening on 127.0.0.1:41787
+1600400267949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ10Cqd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600400270620	Marionette	INFO	Listening on port 37157
+1600400270668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600400270714	Marionette	INFO	Stopped listening on port 37157
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600401092755	geckodriver	INFO	Listening on 127.0.0.1:49553
+1600401092760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX8MjvA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600401095482	Marionette	INFO	Listening on port 39395
+1600401095574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600401095622	Marionette	INFO	Stopped listening on port 39395
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600407632050	geckodriver	INFO	Listening on 127.0.0.1:55457
+1600407632054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRkdNt"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600407634850	Marionette	INFO	Listening on port 36861
+1600407634873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600407634923	Marionette	INFO	Stopped listening on port 36861
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600407967201	geckodriver	INFO	Listening on 127.0.0.1:39033
+1600407967206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyxxd6J"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600407970062	Marionette	INFO	Listening on port 37547
+1600407970119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 187ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 179ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600408009019	Marionette	INFO	Stopped listening on port 37547
+1600408534090	geckodriver	INFO	Listening on 127.0.0.1:39007
+1600408534095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVrN3Rd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600408536808	Marionette	INFO	Listening on port 45187
+1600408536908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 195ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 174ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600408571672	Marionette	INFO	Stopped listening on port 45187
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1600409090976	geckodriver	INFO	Listening on 127.0.0.1:43099
+1600409090981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileADdq9x"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600409093672	Marionette	INFO	Listening on port 38587
+1600409093696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 165ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 172ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600409128488	Marionette	INFO	Stopped listening on port 38587
+1600409152523	geckodriver	INFO	Listening on 127.0.0.1:39361
+1600409152527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCTwMq7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600409155258	Marionette	INFO	Listening on port 33519
+1600409155341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 165ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 235ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600409170498	Marionette	INFO	Stopped listening on port 33519
+1600409671125	geckodriver	INFO	Listening on 127.0.0.1:48339
+1600409671129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemjSG6D"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600409673995	Marionette	INFO	Listening on port 32969
+1600409674044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600409674340	Marionette	INFO	Stopped listening on port 32969
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600409879129	geckodriver	INFO	Listening on 127.0.0.1:48831
+1600409879134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQm1uz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600409881818	Marionette	INFO	Listening on port 42351
+1600409881850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 162ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 156ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600409896277	Marionette	INFO	Stopped listening on port 42351
+1600410027706	geckodriver	INFO	Listening on 127.0.0.1:33107
+1600410027710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCK6Aad"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600410030354	Marionette	INFO	Listening on port 41411
+1600410030428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600410030740	Marionette	INFO	Stopped listening on port 41411
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600410232853	geckodriver	INFO	Listening on 127.0.0.1:45843
+1600410232858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee3UjfB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600410235497	Marionette	INFO	Listening on port 33803
+1600410235575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600410235862	Marionette	INFO	Stopped listening on port 33803
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600410293125	geckodriver	INFO	Listening on 127.0.0.1:39135
+1600410293130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQH67WP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600410295735	Marionette	INFO	Listening on port 36397
+1600410295750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600410296085	Marionette	INFO	Stopped listening on port 36397
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600410325309	geckodriver	INFO	Listening on 127.0.0.1:33697
+1600410325314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMYwf8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600410328069	Marionette	INFO	Listening on port 33131
+1600410328126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 167ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 381ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600410343642	Marionette	INFO	Stopped listening on port 33131
+1600410475866	geckodriver	INFO	Listening on 127.0.0.1:46259
+1600410475871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBTecIy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600410478724	Marionette	INFO	Listening on port 34957
+1600410478785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 192ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600410483524	Marionette	INFO	Stopped listening on port 34957

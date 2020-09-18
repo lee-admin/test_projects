@@ -1,6 +1,6 @@
 import sys
-sys.path.append("/home/lee/test_projects/henji/test_case/models")
-from readini import ReadIni
+#sys.path.append("/home/lee/test_projects/henji/test_case/models")
+from models.readini import ReadIni
 from selenium import webdriver
 
 class FindElement(object):

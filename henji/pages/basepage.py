@@ -2,8 +2,10 @@
 #coding=utf-8
 from selenium import webdriver
 import sys
-sys.path.append("../test_case/models")
-from models.Find_element import FindElement
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(BASE_DIR)
+from test_case.models.Find_element import FindElement
 
 class page(object):
   '''基础页面类，所有的页面类都继承基础页面类'''

@@ -1,4 +1,4 @@
-from basepage import page
+from pages.basepage import page
 from selenium import webdriver
 
 class Loginpage(page):
@@ -23,7 +23,7 @@ class Loginpage(page):
     self.find_element(self.login_btnlogin_key).click()
 
   def assert_login_error(self):
-    #elements = self.find_elements(self.login_msg_error)
+    '''弹出登陆失败框'''
     assert len(self.find_elements(self.login_msg_error)) > 0
 
   def assert_login_successful(self):

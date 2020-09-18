@@ -1,6 +1,5 @@
 #!usr/bin/python3.8
 #coding=utf-8
-
 #from selenium.webdriver import Remote
 from selenium import webdriver
 
@@ -15,5 +14,5 @@ def browser():
 
 if __name__ == '__main__':
   dr = browser()
-  dr.get("http://www.baidu.com")       #debug
+  dr.get("http://www.baidu.com")       
   dr.quit()
