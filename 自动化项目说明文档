@@ -1,2 +1,17 @@
-1.下载对应的浏览器（firefox、chrome、IE），本例采用的chrome浏览器版本为85.0.4183.102，firefox版本号为80.0.1。或将driver文件夹中的webdriver复制到/usr/bin/中
-2.
+1.下载对应的浏览器（firefox、chrome、IE），本例采用的chrome浏览器版本为85.0.4183.102，firefox版本号为80.0.1。将driver文件夹中的webdriver复制到python 的安装目录>下（/usr/bin）
+
+2.下载相关包：selenium、HTMLTestRunner、
+    pip install selenium
+注：HTMLTestRunner适用于python2,本例用python3,所以将模块进行一些修改
+    （1）下载HTMLTestRunner.py放在python的安装目录/lib下面
+    （2）进行以下修改：
+          ，第94行，将import StringIO修改成import io
+            第539行，将self.outputBuffer = StringIO.StringIO()修改成self.outputBuffer = io.StringIO()
+            第642行，将if not rmap.has_key(cls):修改成if not cls in rmap:
+            第766行，将uo = o.decode('latin-1')修改成uo = e
+            第775行，将ue = e.decode('latin-1')修改成ue = e
+            第631行，将print >> sys.stderr, '\nTime Elapsed: %s' % (self.stopTime-self.startTime)修改成print(sys.stderr, '\nTime Elapsed: %s' % (self.stopTime-self.startTime))
+            第642行，将 if not rmap.has_key(cls):修改为if not cls in rmap:
+            第766行，将uo = o.decode('latin-1')修改为uo = e
+            第772行，将ue = e.decode('latin-1')修改为ue = e
+（或者直接将test_projects根目录下的HTMLtestRunner.py放在python的/lib目录下
