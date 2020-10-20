@@ -3735,3 +3735,1657 @@ JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: 
 JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
 1600408485557	Marionette	INFO	Stopped listening on port 35689
 console.warn: services.settings: main/cfr sync interrupted by shutdown
+1600416584544	geckodriver	INFO	Listening on 127.0.0.1:52747
+1600416585553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletY7qn7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416591425	Marionette	INFO	Listening on port 34427
+1600416591481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 574ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 475ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416607216	Marionette	INFO	Stopped listening on port 34427
+1600416607820	geckodriver	INFO	Listening on 127.0.0.1:45565
+1600416607824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDbIIhc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416610590	Marionette	INFO	Listening on port 36093
+1600416610639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416613339	Marionette	INFO	Stopped listening on port 36093
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416613916	geckodriver	INFO	Listening on 127.0.0.1:60771
+1600416613919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehlgqPq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416616697	Marionette	INFO	Listening on port 40579
+1600416616736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416619446	Marionette	INFO	Stopped listening on port 40579
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600416620127	geckodriver	INFO	Listening on 127.0.0.1:48005
+1600416620130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI5g3Ug"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416622806	Marionette	INFO	Listening on port 43295
+1600416622855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600416625589	Marionette	INFO	Stopped listening on port 43295
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416626207	geckodriver	INFO	Listening on 127.0.0.1:39443
+1600416626212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVSayB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416629142	Marionette	INFO	Listening on port 35607
+1600416629231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600416632696	Marionette	INFO	Stopped listening on port 35607
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416633341	geckodriver	INFO	Listening on 127.0.0.1:42985
+1600416633346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFEONXp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416636005	Marionette	INFO	Listening on port 41571
+1600416636062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416638743	Marionette	INFO	Stopped listening on port 41571
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416639309	geckodriver	INFO	Listening on 127.0.0.1:55189
+1600416639313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledfD62X"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416642032	Marionette	INFO	Listening on port 40281
+1600416642130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416644821	Marionette	INFO	Stopped listening on port 40281
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416645459	geckodriver	INFO	Listening on 127.0.0.1:34555
+1600416645464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFPIdHq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416648202	Marionette	INFO	Listening on port 44641
+1600416648280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 165ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600416651335	Marionette	INFO	Stopped listening on port 44641
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416700188	geckodriver	INFO	Listening on 127.0.0.1:44329
+1600416700193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5ULTCI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416702883	Marionette	INFO	Listening on port 40993
+1600416702904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 216ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 177ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600416717856	Marionette	INFO	Stopped listening on port 40993
+1600416718469	geckodriver	INFO	Listening on 127.0.0.1:35631
+1600416718475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMFMuXo"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416721206	Marionette	INFO	Listening on port 44297
+1600416721290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416723942	Marionette	INFO	Stopped listening on port 44297
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416724625	geckodriver	INFO	Listening on 127.0.0.1:39183
+1600416724631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEbRIiY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416727282	Marionette	INFO	Listening on port 39533
+1600416727346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416730019	Marionette	INFO	Stopped listening on port 39533
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416730607	geckodriver	INFO	Listening on 127.0.0.1:40547
+1600416730611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7a0WD0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416733277	Marionette	INFO	Listening on port 34961
+1600416733330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416736037	Marionette	INFO	Stopped listening on port 34961
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416738773	geckodriver	INFO	Listening on 127.0.0.1:40301
+1600416738777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebwEyOk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416741423	Marionette	INFO	Listening on port 35929
+1600416741497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 167ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416744944	Marionette	INFO	Stopped listening on port 35929
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416745635	geckodriver	INFO	Listening on 127.0.0.1:35203
+1600416745638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH3mlSy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416748235	Marionette	INFO	Listening on port 44189
+1600416748254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416750931	Marionette	INFO	Stopped listening on port 44189
+1600416751596	geckodriver	INFO	Listening on 127.0.0.1:60107
+1600416751601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJtXmA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416754276	Marionette	INFO	Listening on port 44997
+1600416754317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416756982	Marionette	INFO	Stopped listening on port 44997
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416757641	geckodriver	INFO	Listening on 127.0.0.1:55269
+1600416757645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemrhRhc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416760338	Marionette	INFO	Listening on port 39881
+1600416760368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 154ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416763345	Marionette	INFO	Stopped listening on port 39881
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600416798513	geckodriver	INFO	Listening on 127.0.0.1:58565
+1600416798518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHOmar"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416801169	Marionette	INFO	Listening on port 45879
+1600416801232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 162ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416816016	Marionette	INFO	Stopped listening on port 45879
+1600416816614	geckodriver	INFO	Listening on 127.0.0.1:43589
+1600416816619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileak2deq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416819300	Marionette	INFO	Listening on port 37373
+1600416819333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416822004	Marionette	INFO	Stopped listening on port 37373
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416824215	geckodriver	INFO	Listening on 127.0.0.1:43779
+1600416824219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebHlakk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416826861	Marionette	INFO	Listening on port 43765
+1600416826937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416829718	Marionette	INFO	Stopped listening on port 43765
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416831691	geckodriver	INFO	Listening on 127.0.0.1:46311
+1600416831695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileksHrdU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416834307	Marionette	INFO	Listening on port 40635
+1600416834411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416837093	Marionette	INFO	Stopped listening on port 40635
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416837815	geckodriver	INFO	Listening on 127.0.0.1:44615
+1600416837818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3JZ74Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416840478	Marionette	INFO	Listening on port 40847
+1600416840536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 170ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600416844236	Marionette	INFO	Stopped listening on port 40847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416844819	geckodriver	INFO	Listening on 127.0.0.1:52315
+1600416844824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3T54X7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416847477	Marionette	INFO	Listening on port 32903
+1600416847537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416850345	Marionette	INFO	Stopped listening on port 32903
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416852820	geckodriver	INFO	Listening on 127.0.0.1:35179
+1600416852824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled8SZ1e"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416855529	Marionette	INFO	Listening on port 46195
+1600416855545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416858220	Marionette	INFO	Stopped listening on port 46195
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416860796	geckodriver	INFO	Listening on 127.0.0.1:43249
+1600416860799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWKSmrG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416863441	Marionette	INFO	Listening on port 39761
+1600416863512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416866477	Marionette	INFO	Stopped listening on port 39761
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416902422	geckodriver	INFO	Listening on 127.0.0.1:53363
+1600416902428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesuTetd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416905250	Marionette	INFO	Listening on port 43021
+1600416905343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 188ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 167ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416920076	Marionette	INFO	Stopped listening on port 43021
+1600416920705	geckodriver	INFO	Listening on 127.0.0.1:55573
+1600416920710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel6Kas1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416923576	Marionette	INFO	Listening on port 46181
+1600416923624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416926297	Marionette	INFO	Stopped listening on port 46181
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416926976	geckodriver	INFO	Listening on 127.0.0.1:38839
+1600416926981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile49y0Q3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416929658	Marionette	INFO	Listening on port 43161
+1600416929696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416932451	Marionette	INFO	Stopped listening on port 43161
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416933197	geckodriver	INFO	Listening on 127.0.0.1:39477
+1600416933202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL1rFaj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416935883	Marionette	INFO	Listening on port 42415
+1600416935916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416938604	Marionette	INFO	Stopped listening on port 42415
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600416940717	geckodriver	INFO	Listening on 127.0.0.1:60831
+1600416940723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile50ywZB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416943316	Marionette	INFO	Listening on port 46743
+1600416943337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416947031	Marionette	INFO	Stopped listening on port 46743
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416947754	geckodriver	INFO	Listening on 127.0.0.1:57013
+1600416947759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK094NI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416950438	Marionette	INFO	Listening on port 44571
+1600416950476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416953143	Marionette	INFO	Stopped listening on port 44571
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416955301	geckodriver	INFO	Listening on 127.0.0.1:44067
+1600416955305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileISlRU3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416957941	Marionette	INFO	Listening on port 41023
+1600416958022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600416960706	Marionette	INFO	Stopped listening on port 41023
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600416961422	geckodriver	INFO	Listening on 127.0.0.1:54931
+1600416961428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQwnev0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416964090	Marionette	INFO	Listening on port 45007
+1600416964148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600416967130	Marionette	INFO	Stopped listening on port 45007
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600416994105	geckodriver	INFO	Listening on 127.0.0.1:38755
+1600416994109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejBRPHP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600416996808	Marionette	INFO	Listening on port 33069
+1600416996829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 154ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417011415	Marionette	INFO	Stopped listening on port 33069
+1600417012061	geckodriver	INFO	Listening on 127.0.0.1:33555
+1600417012066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelSTVKT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417014789	Marionette	INFO	Listening on port 35825
+1600417014889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417017537	Marionette	INFO	Stopped listening on port 35825
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417018234	geckodriver	INFO	Listening on 127.0.0.1:59785
+1600417018239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile94KTmT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417020963	Marionette	INFO	Listening on port 45775
+1600417021053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417023677	Marionette	INFO	Stopped listening on port 45775
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417024316	geckodriver	INFO	Listening on 127.0.0.1:42583
+1600417024321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegYoSDF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417027131	Marionette	INFO	Listening on port 45361
+1600417027145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417029853	Marionette	INFO	Stopped listening on port 45361
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417030494	geckodriver	INFO	Listening on 127.0.0.1:41351
+1600417030500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0LNREd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417033122	Marionette	INFO	Listening on port 34999
+1600417033212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 153ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417036619	Marionette	INFO	Stopped listening on port 34999
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600417037212	geckodriver	INFO	Listening on 127.0.0.1:50273
+1600417037216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7n6EUz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417039809	Marionette	INFO	Listening on port 42115
+1600417039831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417042480	Marionette	INFO	Stopped listening on port 42115
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417043118	geckodriver	INFO	Listening on 127.0.0.1:38115
+1600417043122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileORQQLf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417045783	Marionette	INFO	Listening on port 41633
+1600417045839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417048480	Marionette	INFO	Stopped listening on port 41633
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417049189	geckodriver	INFO	Listening on 127.0.0.1:42169
+1600417049195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeq1LjK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417051722	Marionette	INFO	Listening on port 36465
+1600417051810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 150ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417054722	Marionette	INFO	Stopped listening on port 36465
+1600417372474	geckodriver	INFO	Listening on 127.0.0.1:34947
+1600417372480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecudvj1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417375638	Marionette	INFO	Listening on port 39053
+1600417375695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 221ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 169ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417390622	Marionette	INFO	Stopped listening on port 39053
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417391323	geckodriver	INFO	Listening on 127.0.0.1:36207
+1600417391326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYD3sUS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417394289	Marionette	INFO	Listening on port 45875
+1600417394352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417397134	Marionette	INFO	Stopped listening on port 45875
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417397843	geckodriver	INFO	Listening on 127.0.0.1:40009
+1600417397848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuX51jT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417400878	Marionette	INFO	Listening on port 33875
+1600417400967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417403685	Marionette	INFO	Stopped listening on port 33875
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417404307	geckodriver	INFO	Listening on 127.0.0.1:48457
+1600417404310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNeoTyb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417407103	Marionette	INFO	Listening on port 34321
+1600417407133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417409823	Marionette	INFO	Stopped listening on port 34321
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600417410542	geckodriver	INFO	Listening on 127.0.0.1:44661
+1600417410546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezpjgeB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417413678	Marionette	INFO	Listening on port 43989
+1600417413766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 189ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417417549	Marionette	INFO	Stopped listening on port 43989
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+1600417418308	geckodriver	INFO	Listening on 127.0.0.1:43685
+1600417418312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57Qj1y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417421380	Marionette	INFO	Listening on port 39971
+1600417421435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417424198	Marionette	INFO	Stopped listening on port 39971
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1600417426221	geckodriver	INFO	Listening on 127.0.0.1:50999
+1600417426224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileryjtw7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417429270	Marionette	INFO	Listening on port 33127
+1600417429346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417432114	Marionette	INFO	Stopped listening on port 33127
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/message-groups Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417432826	geckodriver	INFO	Listening on 127.0.0.1:49823
+1600417432830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeRsVLn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417435992	Marionette	INFO	Listening on port 36289
+1600417436049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 203ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417439142	Marionette	INFO	Stopped listening on port 36289
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417474744	geckodriver	INFO	Listening on 127.0.0.1:57161
+1600417474751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel7ql7j"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417477897	Marionette	INFO	Listening on port 41825
+1600417477970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 194ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 193ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417493637	Marionette	INFO	Stopped listening on port 41825
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1600417495179	geckodriver	INFO	Listening on 127.0.0.1:51951
+1600417495184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevyvQhL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417497811	Marionette	INFO	Listening on port 37313
+1600417497896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417500560	Marionette	INFO	Stopped listening on port 37313
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417501225	geckodriver	INFO	Listening on 127.0.0.1:46729
+1600417501230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6btsB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417503788	Marionette	INFO	Listening on port 44433
+1600417503842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417506542	Marionette	INFO	Stopped listening on port 44433
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1600417507191	geckodriver	INFO	Listening on 127.0.0.1:37095
+1600417507196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTPzJSf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417509857	Marionette	INFO	Listening on port 42849
+1600417509909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417512615	Marionette	INFO	Stopped listening on port 42849
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417513314	geckodriver	INFO	Listening on 127.0.0.1:44363
+1600417513320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehuhwdY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417516000	Marionette	INFO	Listening on port 43725
+1600417516034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 181ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417519631	Marionette	INFO	Stopped listening on port 43725
+1600417521949	geckodriver	INFO	Listening on 127.0.0.1:46175
+1600417521953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQYrUMm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417524623	Marionette	INFO	Listening on port 38137
+1600417524668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417527345	Marionette	INFO	Stopped listening on port 38137
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417527994	geckodriver	INFO	Listening on 127.0.0.1:50367
+1600417527998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerQfjOB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417530565	Marionette	INFO	Listening on port 44299
+1600417530621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600417533304	Marionette	INFO	Stopped listening on port 44299
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417533950	geckodriver	INFO	Listening on 127.0.0.1:45869
+1600417533955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bgIe1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417536616	Marionette	INFO	Listening on port 38639
+1600417536666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417539653	Marionette	INFO	Stopped listening on port 38639
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417655006	geckodriver	INFO	Listening on 127.0.0.1:39173
+1600417655010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIsuDV7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417657675	Marionette	INFO	Listening on port 40495
+1600417657730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 172ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600417672531	Marionette	INFO	Stopped listening on port 40495
+1600417673138	geckodriver	INFO	Listening on 127.0.0.1:45009
+1600417673144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileShKXrT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417675988	Marionette	INFO	Listening on port 39289
+1600417676057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417678816	Marionette	INFO	Stopped listening on port 39289
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417679423	geckodriver	INFO	Listening on 127.0.0.1:41381
+1600417680434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile44hkJv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417683537	Marionette	INFO	Listening on port 42091
+1600417683572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417686300	Marionette	INFO	Stopped listening on port 42091
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417688890	geckodriver	INFO	Listening on 127.0.0.1:34099
+1600417688895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenREkFw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417691519	Marionette	INFO	Listening on port 44575
+1600417691606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417694242	Marionette	INFO	Stopped listening on port 44575
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417694795	geckodriver	INFO	Listening on 127.0.0.1:49041
+1600417694799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LMUkz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417697270	Marionette	INFO	Listening on port 34579
+1600417697311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 161ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417700794	Marionette	INFO	Stopped listening on port 34579
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1600417701493	geckodriver	INFO	Listening on 127.0.0.1:46829
+1600417701499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqlkPwT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417704284	Marionette	INFO	Listening on port 46189
+1600417704314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417706965	Marionette	INFO	Stopped listening on port 46189
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417707608	geckodriver	INFO	Listening on 127.0.0.1:48213
+1600417707613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKDJeYI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417710266	Marionette	INFO	Listening on port 38937
+1600417710329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417713118	Marionette	INFO	Stopped listening on port 38937
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1600417713721	geckodriver	INFO	Listening on 127.0.0.1:42671
+1600417713724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileULz1w2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417716356	Marionette	INFO	Listening on port 41961
+1600417716439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417719363	Marionette	INFO	Stopped listening on port 41961
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417957889	geckodriver	INFO	Listening on 127.0.0.1:36879
+1600417957894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXZviFE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417960713	Marionette	INFO	Listening on port 44903
+1600417960808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 189ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 177ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600417975713	Marionette	INFO	Stopped listening on port 44903
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417976329	geckodriver	INFO	Listening on 127.0.0.1:44391
+1600417976334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6h7Tt"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417979013	Marionette	INFO	Listening on port 40881
+1600417979048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417981732	Marionette	INFO	Stopped listening on port 40881
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600417982355	geckodriver	INFO	Listening on 127.0.0.1:33805
+1600417982360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOCSYv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417985441	Marionette	INFO	Listening on port 40989
+1600417985475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417988215	Marionette	INFO	Stopped listening on port 40989
+1600417988819	geckodriver	INFO	Listening on 127.0.0.1:37877
+1600417988822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqB30En"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417991717	Marionette	INFO	Listening on port 46383
+1600417991741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600417994599	Marionette	INFO	Stopped listening on port 46383
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600417995280	geckodriver	INFO	Listening on 127.0.0.1:57535
+1600417995283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWbodQv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600417997967	Marionette	INFO	Listening on port 35529
+1600417997995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 147ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600418001430	Marionette	INFO	Stopped listening on port 35529
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600418002152	geckodriver	INFO	Listening on 127.0.0.1:58115
+1600418002158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM4rbum"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418004881	Marionette	INFO	Listening on port 33855
+1600418004971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600418007634	Marionette	INFO	Stopped listening on port 33855
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600418009141	geckodriver	INFO	Listening on 127.0.0.1:54437
+1600418009144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejZJ1uK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418011799	Marionette	INFO	Listening on port 44313
+1600418011855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600418014525	Marionette	INFO	Stopped listening on port 44313
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600418015115	geckodriver	INFO	Listening on 127.0.0.1:45843
+1600418015121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekwywZz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418017737	Marionette	INFO	Listening on port 42559
+1600418017835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 188ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600418020870	Marionette	INFO	Stopped listening on port 42559
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600418552242	geckodriver	INFO	Listening on 127.0.0.1:51465
+1600418552246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCRO6cS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418554954	Marionette	INFO	Listening on port 37545
+1600418554966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 186ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600418557574	Marionette	INFO	Stopped listening on port 37545
+1600418557930	geckodriver	INFO	Listening on 127.0.0.1:52309
+1600418557936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecE9Cxf"
+1600418591341	geckodriver	INFO	Listening on 127.0.0.1:59561
+1600418591346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeN1AQv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418593978	Marionette	INFO	Listening on port 33403
+1600418594065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 166ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600418597582	Marionette	INFO	Stopped listening on port 33403
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600419534829	geckodriver	INFO	Listening on 127.0.0.1:46229
+1600419534834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePoqoUV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600419537439	Marionette	INFO	Listening on port 37737
+1600419537450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 156ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600419540935	Marionette	INFO	Stopped listening on port 37737
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600419580768	geckodriver	INFO	Listening on 127.0.0.1:48849
+1600419580773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekmp0Kc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600419583416	Marionette	INFO	Listening on port 39835
+1600419583485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 162ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600419591507	Marionette	INFO	Stopped listening on port 39835
+1600419655248	geckodriver	INFO	Listening on 127.0.0.1:57139
+1600419655254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTN0r6y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600419657983	Marionette	INFO	Listening on port 39691
+1600419658074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 162ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600419661592	Marionette	INFO	Stopped listening on port 39691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600419684488	geckodriver	INFO	Listening on 127.0.0.1:38773
+1600419684492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegvIUrN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600419687106	Marionette	INFO	Listening on port 38199
+1600419687209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 164ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600419690658	Marionette	INFO	Stopped listening on port 38199
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600420595648	geckodriver	INFO	Listening on 127.0.0.1:59429
+1600420595653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile37ykZn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420598376	Marionette	INFO	Listening on port 33445
+1600420598466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 156ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600420601935	Marionette	INFO	Stopped listening on port 33445
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600420630225	geckodriver	INFO	Listening on 127.0.0.1:57465
+1600420630230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9OePMw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420632915	Marionette	INFO	Listening on port 44985
+1600420632945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600420636549	Marionette	INFO	Stopped listening on port 44985
+1600420653633	geckodriver	INFO	Listening on 127.0.0.1:35151
+1600420653638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5W562p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420656363	Marionette	INFO	Listening on port 40731
+1600420656451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 159ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600420659945	Marionette	INFO	Stopped listening on port 40731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600420675456	geckodriver	INFO	Listening on 127.0.0.1:56581
+1600420675461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqmvIz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420678121	Marionette	INFO	Listening on port 35161
+1600420678175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 170ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600420681839	Marionette	INFO	Stopped listening on port 35161
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600420698524	geckodriver	INFO	Listening on 127.0.0.1:45771
+1600420698530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTpt0gV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420701213	Marionette	INFO	Listening on port 36405
+1600420701246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 157ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600420704652	Marionette	INFO	Stopped listening on port 36405
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600420814524	geckodriver	INFO	Listening on 127.0.0.1:51205
+1600420814528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevxtFH0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420817281	Marionette	INFO	Listening on port 37077
+1600420817341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 156ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600420820970	Marionette	INFO	Stopped listening on port 37077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600421116339	geckodriver	INFO	Listening on 127.0.0.1:57261
+1600421116343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIfuEF7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421119332	Marionette	INFO	Listening on port 42951
+1600421119362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600421123094	Marionette	INFO	Stopped listening on port 42951
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600421682008	geckodriver	INFO	Listening on 127.0.0.1:43929
+1600421682013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuLtsch"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421684664	Marionette	INFO	Listening on port 45049
+1600421684728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 201ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 172ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600421699870	Marionette	INFO	Stopped listening on port 45049
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600421701414	geckodriver	INFO	Listening on 127.0.0.1:38229
+1600421701417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezPbps3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421704025	Marionette	INFO	Listening on port 40871
+1600421704035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600421706753	Marionette	INFO	Stopped listening on port 40871
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600421707322	geckodriver	INFO	Listening on 127.0.0.1:56415
+1600421707327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemRdPOj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421710126	Marionette	INFO	Listening on port 39963
+1600421710159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600421712891	Marionette	INFO	Stopped listening on port 39963
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600421713493	geckodriver	INFO	Listening on 127.0.0.1:34427
+1600421713497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebNClX9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421716094	Marionette	INFO	Listening on port 46485
+1600421716111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600421718766	Marionette	INFO	Stopped listening on port 46485
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600421719324	geckodriver	INFO	Listening on 127.0.0.1:44581
+1600421719328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTf1qHl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421721883	Marionette	INFO	Listening on port 39127
+1600421721951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 146ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600421725313	Marionette	INFO	Stopped listening on port 39127
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600421726016	geckodriver	INFO	Listening on 127.0.0.1:36835
+1600421726021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVJAJil"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421728550	Marionette	INFO	Listening on port 34653
+1600421728634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600421731270	Marionette	INFO	Stopped listening on port 34653
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600421731904	geckodriver	INFO	Listening on 127.0.0.1:53553
+1600421731909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1WRWDI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421734509	Marionette	INFO	Listening on port 44117
+1600421734524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600421737203	Marionette	INFO	Stopped listening on port 44117
+1600421737925	geckodriver	INFO	Listening on 127.0.0.1:43877
+1600421737929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWpWvg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421740731	Marionette	INFO	Listening on port 38881
+1600421740746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 188ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600421743789	Marionette	INFO	Stopped listening on port 38881
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600422789520	geckodriver	INFO	Listening on 127.0.0.1:55493
+1600422789524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6OjpAz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422793463	Marionette	INFO	Listening on port 41253
+1600422793545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 438ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 518ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600422808873	Marionette	INFO	Stopped listening on port 41253
+1600422809417	geckodriver	INFO	Listening on 127.0.0.1:38469
+1600422809422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1INviF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422812324	Marionette	INFO	Listening on port 44037
+1600422812339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600422815009	Marionette	INFO	Stopped listening on port 44037
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1600422815596	geckodriver	INFO	Listening on 127.0.0.1:35747
+1600422815601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV8sMUJ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422818381	Marionette	INFO	Listening on port 34871
+1600422818413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600422821088	Marionette	INFO	Stopped listening on port 34871
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1600422821665	geckodriver	INFO	Listening on 127.0.0.1:40703
+1600422821670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile75JyT0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422824446	Marionette	INFO	Listening on port 34205
+1600422824490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600422827176	Marionette	INFO	Stopped listening on port 34205
+1600422827792	geckodriver	INFO	Listening on 127.0.0.1:53419
+1600422827797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaL8BVX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422830501	Marionette	INFO	Listening on port 34555
+1600422830527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 177ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600422834082	Marionette	INFO	Stopped listening on port 34555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600422834701	geckodriver	INFO	Listening on 127.0.0.1:54931
+1600422834706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef21zZE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422837237	Marionette	INFO	Listening on port 38319
+1600422837321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600422840024	Marionette	INFO	Stopped listening on port 38319
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600422840692	geckodriver	INFO	Listening on 127.0.0.1:47431
+1600422840695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevk2iPg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422843296	Marionette	INFO	Listening on port 32887
+1600422843315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600422845988	Marionette	INFO	Stopped listening on port 32887
+1600422846587	geckodriver	INFO	Listening on 127.0.0.1:60507
+1600422846593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPuW2A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600422849249	Marionette	INFO	Listening on port 43955
+1600422849308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 157ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600422852267	Marionette	INFO	Stopped listening on port 43955
+1600423234382	geckodriver	INFO	Listening on 127.0.0.1:43027
+1600423234387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiyl3mk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423236981	Marionette	INFO	Listening on port 34153
+1600423237001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 166ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 224ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600423251495	Marionette	INFO	Stopped listening on port 34153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600423252148	geckodriver	INFO	Listening on 127.0.0.1:41025
+1600423252154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1qlSg8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423255026	Marionette	INFO	Listening on port 33869
+1600423255067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423257725	Marionette	INFO	Stopped listening on port 33869
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423258360	geckodriver	INFO	Listening on 127.0.0.1:48077
+1600423258366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileexv5hO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423261009	Marionette	INFO	Listening on port 45853
+1600423261090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423263774	Marionette	INFO	Stopped listening on port 45853
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600423266416	geckodriver	INFO	Listening on 127.0.0.1:43201
+1600423266422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoROtFM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423269033	Marionette	INFO	Listening on port 33211
+1600423269047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423271978	Marionette	INFO	Stopped listening on port 33211
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600423272629	geckodriver	INFO	Listening on 127.0.0.1:39473
+1600423272634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBScr92"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423275360	Marionette	INFO	Listening on port 42631
+1600423275447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 178ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600423289381	Marionette	INFO	Stopped listening on port 42631
+1600423290047	geckodriver	INFO	Listening on 127.0.0.1:57475
+1600423290052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejrCV51"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423293086	Marionette	INFO	Listening on port 46645
+1600423293172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423296013	Marionette	INFO	Stopped listening on port 46645
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423297961	geckodriver	INFO	Listening on 127.0.0.1:40409
+1600423297965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQMtLeT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423301159	Marionette	INFO	Listening on port 35801
+1600423301191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423303984	Marionette	INFO	Stopped listening on port 35801
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600423304688	geckodriver	INFO	Listening on 127.0.0.1:51859
+1600423304693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex4LBKW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423307452	Marionette	INFO	Listening on port 36299
+1600423307509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 171ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600423310666	Marionette	INFO	Stopped listening on port 36299
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423657613	geckodriver	INFO	Listening on 127.0.0.1:54825
+1600423657617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehL7p8y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423660319	Marionette	INFO	Listening on port 46033
+1600423660355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423663037	Marionette	INFO	Stopped listening on port 46033
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423663671	geckodriver	INFO	Listening on 127.0.0.1:51349
+1600423663676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRLVZOY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423666428	Marionette	INFO	Listening on port 33369
+1600423666492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423669190	Marionette	INFO	Stopped listening on port 33369
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423669829	geckodriver	INFO	Listening on 127.0.0.1:48579
+1600423669835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejqbJ30"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423672597	Marionette	INFO	Listening on port 38853
+1600423672660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423675373	Marionette	INFO	Stopped listening on port 38853
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+1600423676034	geckodriver	INFO	Listening on 127.0.0.1:58029
+1600423676040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4sJxrA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423678655	Marionette	INFO	Listening on port 34271
+1600423678758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 142ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600423682130	Marionette	INFO	Stopped listening on port 34271
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1600423682764	geckodriver	INFO	Listening on 127.0.0.1:36723
+1600423682768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo9aeAW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423685441	Marionette	INFO	Listening on port 44517
+1600423685480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600423688262	Marionette	INFO	Stopped listening on port 44517
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1600423688921	geckodriver	INFO	Listening on 127.0.0.1:60501
+1600423688927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIQ29EI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423691508	Marionette	INFO	Listening on port 41503
+1600423691561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600423694234	Marionette	INFO	Stopped listening on port 41503
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1600423694860	geckodriver	INFO	Listening on 127.0.0.1:50453
+1600423694865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDW0fXB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423697356	Marionette	INFO	Listening on port 32955
+1600423697397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 168ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 181ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1600423712343	Marionette	INFO	Stopped listening on port 32955
+1600423712960	geckodriver	INFO	Listening on 127.0.0.1:47221
+1600423712965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAZ7FLR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423715717	Marionette	INFO	Listening on port 40627
+1600423715777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 150ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600423718757	Marionette	INFO	Stopped listening on port 40627
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602659401603	geckodriver	INFO	Listening on 127.0.0.1:58083
+1602659402620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqbd8ka"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602659405718	Marionette	INFO	Listening on port 36033
+1602659405742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602659413720	Marionette	INFO	Stopped listening on port 36033
+1602659413848	geckodriver	INFO	Listening on 127.0.0.1:51785
+1602659413853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVHWWsk"
+1602812928521	geckodriver	INFO	Listening on 127.0.0.1:46503
+1602812929524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehnwbap"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602812936594	Marionette	INFO	Listening on port 41677
+1602812936671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602812940472	Marionette	INFO	Stopped listening on port 41677
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1602812941240	geckodriver	INFO	Listening on 127.0.0.1:45011
+1602812942252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec8F08w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602812945396	Marionette	INFO	Listening on port 40569
+1602812945474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602812948306	Marionette	INFO	Stopped listening on port 40569
+1602812948473	geckodriver	INFO	Listening on 127.0.0.1:49317
+1602812948478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeCs603"
+1602824072945	geckodriver	INFO	Listening on 127.0.0.1:44501
+1602824073973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler24gHm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824080443	Marionette	INFO	Listening on port 36155
+1602824080503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824083668	Marionette	INFO	Stopped listening on port 36155
+1602824084350	geckodriver	INFO	Listening on 127.0.0.1:38675
+1602824084354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile52FY5D"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824087263	Marionette	INFO	Listening on port 38467
+1602824087278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824089982	Marionette	INFO	Stopped listening on port 38467
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1602824090645	geckodriver	INFO	Listening on 127.0.0.1:56475
+1602824090650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerDo32Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824093270	Marionette	INFO	Listening on port 43041
+1602824093364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824096074	Marionette	INFO	Stopped listening on port 43041
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602824096686	geckodriver	INFO	Listening on 127.0.0.1:54921
+1602824096689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtD5y3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824099772	Marionette	INFO	Listening on port 40023
+1602824099807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 517ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602824103778	Marionette	INFO	Stopped listening on port 40023
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602824104947	geckodriver	INFO	Listening on 127.0.0.1:56419
+1602824104952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAJMDiE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824107796	Marionette	INFO	Listening on port 40039
+1602824107875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824110775	Marionette	INFO	Stopped listening on port 40039
+1602824111403	geckodriver	INFO	Listening on 127.0.0.1:58211
+1602824111408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKZDcQE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824114041	Marionette	INFO	Listening on port 42439
+1602824114121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824116840	Marionette	INFO	Stopped listening on port 42439
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602824117409	geckodriver	INFO	Listening on 127.0.0.1:58951
+1602824117415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevB7ltU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824120039	Marionette	INFO	Listening on port 39377
+1602824120130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 159ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602824135657	Marionette	INFO	Stopped listening on port 39377
+1602824136194	geckodriver	INFO	Listening on 127.0.0.1:33753
+1602824136197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ccdfh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824138840	Marionette	INFO	Listening on port 41047
+1602824138912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 155ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1602824141908	Marionette	INFO	Stopped listening on port 41047
+1602824152786	geckodriver	INFO	Listening on 127.0.0.1:34489
+1602824152790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOozClI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824155541	Marionette	INFO	Listening on port 44729
+1602824155610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824158425	Marionette	INFO	Stopped listening on port 44729
+1602824159034	geckodriver	INFO	Listening on 127.0.0.1:52823
+1602824159039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemL5YQC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824161641	Marionette	INFO	Listening on port 45373
+1602824161661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824164341	Marionette	INFO	Stopped listening on port 45373
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602824164934	geckodriver	INFO	Listening on 127.0.0.1:43823
+1602824164939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZC9pf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824167527	Marionette	INFO	Listening on port 39815
+1602824167550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824170212	Marionette	INFO	Stopped listening on port 39815
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602824170809	geckodriver	INFO	Listening on 127.0.0.1:60843
+1602824170815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKCchFF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824173385	Marionette	INFO	Listening on port 33403
+1602824173426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1602824176904	Marionette	INFO	Stopped listening on port 33403
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602824177466	geckodriver	INFO	Listening on 127.0.0.1:34291
+1602824177469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3N9z5z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824180058	Marionette	INFO	Listening on port 38207
+1602824180086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824182751	Marionette	INFO	Stopped listening on port 38207
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602824183387	geckodriver	INFO	Listening on 127.0.0.1:54359
+1602824183392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevZto98"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824186040	Marionette	INFO	Listening on port 36653
+1602824186105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602824188796	Marionette	INFO	Stopped listening on port 36653
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602824189401	geckodriver	INFO	Listening on 127.0.0.1:59871
+1602824189405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerehO9H"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824191989	Marionette	INFO	Listening on port 40607
+1602824192018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 174ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 172ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602824206993	Marionette	INFO	Stopped listening on port 40607
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1602824207513	geckodriver	INFO	Listening on 127.0.0.1:55949
+1602824207516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZcajvR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602824210233	Marionette	INFO	Listening on port 35577
+1602824210335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602824213334	Marionette	INFO	Stopped listening on port 35577
+1602827052853	geckodriver	INFO	Listening on 127.0.0.1:38555
+1602827052861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesCUaKK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827057390	Marionette	INFO	Listening on port 35273
+1602827057486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602827060525	Marionette	INFO	Stopped listening on port 35273
+1602827061164	geckodriver	INFO	Listening on 127.0.0.1:52829
+1602827061169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3UpCvN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827063796	Marionette	INFO	Listening on port 35663
+1602827063882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602827066591	Marionette	INFO	Stopped listening on port 35663
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602827067459	geckodriver	INFO	Listening on 127.0.0.1:52739
+1602827067462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMAMVO5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827069976	Marionette	INFO	Listening on port 45567
+1602827070078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602827072740	Marionette	INFO	Stopped listening on port 45567
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602827073358	geckodriver	INFO	Listening on 127.0.0.1:60191
+1602827073364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHjIcZ4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827075888	Marionette	INFO	Listening on port 33363
+1602827075982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 514ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602827078880	Marionette	INFO	Stopped listening on port 33363
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602827079774	geckodriver	INFO	Listening on 127.0.0.1:57125
+1602827079778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesm8Xll"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827082381	Marionette	INFO	Listening on port 34491
+1602827082393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602827085251	Marionette	INFO	Stopped listening on port 34491
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1602827085979	geckodriver	INFO	Listening on 127.0.0.1:56675
+1602827085985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebEvNfD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827088656	Marionette	INFO	Listening on port 37331
+1602827088701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602827091423	Marionette	INFO	Stopped listening on port 37331
+1602827092037	geckodriver	INFO	Listening on 127.0.0.1:48501
+1602827092043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekOqpuj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827094629	Marionette	INFO	Listening on port 43867
+1602827094663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 177ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 172ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1602827109827	Marionette	INFO	Stopped listening on port 43867
+1602827110478	geckodriver	INFO	Listening on 127.0.0.1:50457
+1602827110482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEKIOrC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827113198	Marionette	INFO	Listening on port 38159
+1602827113304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602827116310	Marionette	INFO	Stopped listening on port 38159
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1602838012365	geckodriver	INFO	Listening on 127.0.0.1:60509
+1602838012369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUHG06C"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838015271	Marionette	INFO	Listening on port 37369
+1602838015295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602838018335	Marionette	INFO	Stopped listening on port 37369
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1602838019011	geckodriver	INFO	Listening on 127.0.0.1:36789
+1602838019015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHJkei"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838021574	Marionette	INFO	Listening on port 40027
+1602838021630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602838024641	Marionette	INFO	Stopped listening on port 40027
+1602838025227	geckodriver	INFO	Listening on 127.0.0.1:52515
+1602838025230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAiJfcq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838027924	Marionette	INFO	Listening on port 42401
+1602838027951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602838031055	Marionette	INFO	Stopped listening on port 42401
+1602838031667	geckodriver	INFO	Listening on 127.0.0.1:56835
+1602838031670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNkcOpB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838034282	Marionette	INFO	Listening on port 44433
+1602838034382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 200ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602838038571	Marionette	INFO	Stopped listening on port 44433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB50006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1602838039259	geckodriver	INFO	Listening on 127.0.0.1:41337
+1602838039264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKIlFhu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838042008	Marionette	INFO	Listening on port 42447
+1602838042077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602838045065	Marionette	INFO	Stopped listening on port 42447
+1602838047687	geckodriver	INFO	Listening on 127.0.0.1:52365
+1602838047693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZCHFpY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838050444	Marionette	INFO	Listening on port 42511
+1602838050511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602838053488	Marionette	INFO	Stopped listening on port 42511
+1602838054078	geckodriver	INFO	Listening on 127.0.0.1:48549
+1602838055085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCMF4Wo"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838057821	Marionette	INFO	Listening on port 33101
+1602838057909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 204ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 179ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: http://192.168.0.69/HGMap/example/src/public/config.js, line 71: TypeError: data is undefined
+1602838073214	Marionette	INFO	Stopped listening on port 33101
+1602838073766	geckodriver	INFO	Listening on 127.0.0.1:37223
+1602838073770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWZDcj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838076501	Marionette	INFO	Listening on port 40107
+1602838076588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1602838079892	Marionette	INFO	Stopped listening on port 40107

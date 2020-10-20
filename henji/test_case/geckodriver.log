@@ -1351,3 +1351,13 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 192ms)
 JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
 1600410483524	Marionette	INFO	Stopped listening on port 34957
+1600423798598	geckodriver	INFO	Listening on 127.0.0.1:35439
+1600423798603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile20YDTo"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423801509	Marionette	INFO	Listening on port 40865
+1600423801524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 170ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
+JavaScript warning: http://192.168.0.69/HGMap/videoSdk/HGPlayer.min.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1600423816395	Marionette	INFO	Stopped listening on port 40865

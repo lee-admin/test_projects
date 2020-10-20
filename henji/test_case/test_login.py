@@ -14,9 +14,11 @@ from HTMLTestRunner import HTMLTestRunner
 from models.myunite import MyTest
 import sys
 import os
+from models.function import save_screenshot
 BASE_Dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE_Dir)
 from pages.loginPage import Loginpage
+
 
 class TestLogin(MyTest):
   '''login模块测试'''
@@ -26,45 +28,63 @@ class TestLogin(MyTest):
     po = Loginpage(self.driver)
     po.user_login(username='admin',password='admin')
     self.driver.implicitly_wait(5)
-    po.assert_login_successful()
+    try:
+        po.assert_login_successful()
+    except:
+        save_screenshot(self.driver, "loginRidRname.png")
     time.sleep(2)
 
   def test_loginRidWpwd(self):
     '''正确用户名错误密码'''   
     po = Loginpage(self.driver)
     po.user_login(username='admin',password='admmin')
-    po.assert_login_error()
+    try:
+        po.assert_login_error()
+    except:
+        save_screenshot(self.driver, "RidWpwd.png")
     time.sleep(2)
 
   def test_loginWidRpwd(self):
     '''错误用户名正确密码'''    
     po = Loginpage(self.driver)
     po.user_login(username='xxxx',password='admin')
-    po.assert_login_error()
+    try:
+        po.assert_login_error()
+    except:
+        save_screenshot(self.driver, "WidRpwd.png")
     time.sleep(2)
 
   def test_loginEidRpwd(self):
     '''空id'''    
     po = Loginpage(self.driver)
     po.user_login(username='',password='admin')
-    po.assert_login_error()
+    try:
+        po.assert_login_error()
+    except:
+        save_screenshot(self.driver, "EidRpwd.png")
     time.sleep(2)
   
   def test_loginRidEpwd(self):
     '''空密码'''    
     po = Loginpage(self.driver)
     po.user_login(username='admin',password='')
-    po.assert_login_error()
+    try:
+        po.assert_login_error()
+    except:
+        save_screenshot(self.driver, "RidEpwd.png")
     time.sleep(2)
 
   def test_loginEidEpwd(self):
     '''空id空密码'''    
     po = Loginpage(self.driver)
     po.user_login(username='',password='')
-    po.assert_login_error()
+    try:
+        po.assert_login_error()
+    except:
+        save_screenshot(self.driver, "loginEidEpwd.png")
     time.sleep(2)
 
-  def test_data(self):
+  def test_login_data(self):
     '''读入数据进行测试'''
     po = Loginpage(self.driver)
     global BASE_Dir
@@ -89,29 +109,35 @@ class TestLogin(MyTest):
             login_result.write(i[0] + "  " + i[1] + "登陆成功" + "\n")
             self.driver.back()
         #time.sleep(2)
-        assert self.driver.current_url == "http://192.168.0.69/HGMap/example/realTime2D.html" or "http://192.168.0.69/HGMap/example/"
+        try:
+            assert self.driver.current_url == "http://192.168.0.69/HGMap/example/realTime2D.html" or "http://192.168.0.69/HGMap/example/"
+        except:
+            save_screenshot(self.driver, "login_data.png")
+
     login_result.close()
     login_file.close()
     
 
-  def test_url(self):
+  def test_login_url(self):
     '''防止直接输入url跳过登陆界面测试'''
     self.driver.get("http://192.168.0.69/HGMap/example/realTime2D.html")
     time.sleep(2)
-    assert self.driver.current_url == "http://192.168.0.69/HGMap/example/index.html"
-
+    try:
+        assert self.driver.current_url == "http://192.168.0.69/HGMap/example/index.html"
+    except:
+        save_screenshot(self.driver, "url.png")
 
 if __name__ == '__main__':
     testunit = unittest.TestSuite()
     #将以下用例加入测试序列
-    #testunit.addTest(TestLogin("test_url"))    
-    #testunit.addTest(TestLogin("test_loginEidEpwd"))
-    #testunit.addTest(TestLogin("test_loginRidEpwd"))
-    #testunit.addTest(TestLogin("test_loginEidRpwd"))
-    #testunit.addTest(TestLogin("test_loginWidRpwd"))
-    #testunit.addTest(TestLogin("test_loginRidWpwd"))
-    #testunit.addTest(TestLogin("test_loginRidRname"))  
-    testunit.addTest(TestLogin("test_data"))
+    testunit.addTest(TestLogin("test_login_url"))    
+    testunit.addTest(TestLogin("test_loginEidEpwd"))
+    testunit.addTest(TestLogin("test_loginRidEpwd"))
+    testunit.addTest(TestLogin("test_loginEidRpwd"))
+    testunit.addTest(TestLogin("test_loginWidRpwd"))
+    testunit.addTest(TestLogin("test_loginRidWpwd"))
+    testunit.addTest(TestLogin("test_loginRidRname"))  
+    testunit.addTest(TestLogin("test_login_data"))
     #生成测试报告  
     now = time.strftime("%Y-%m-%d %H:%M:%S")
     file_name = "../report/report_module/" + now + "login_" + "result.html"
